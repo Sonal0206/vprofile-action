@@ -13,7 +13,7 @@ spec:
     metadata:
       labels:
         app: vproapp
-    spec:
+    specs:
       containers:
       - name: vproapp
         image: sonal2docker/vprofileapp
